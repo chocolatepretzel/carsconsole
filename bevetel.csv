@@ -1,0 +1,101 @@
+carId,brand,model,revenue
+1,Ferrari,488 GTB,26100
+2,Ferrari,488 GTB,8928
+3,Ferrari,Portofino,6706
+4,Ferrari,F8 Tributo,0
+5,Ferrari,488 GTB,14877
+6,Ferrari,488 GTB,35880
+7,Ferrari,488 GTB,26180
+8,Ferrari,F8 Tributo,9380
+9,Ferrari,488 GTB,11940
+10,Ferrari,F8 Tributo,9540
+11,Lamborghini,Huracan,16728
+12,Lamborghini,Urus,15792
+13,Lamborghini,Urus,17688
+14,Lamborghini,Aventador,52983
+15,Lamborghini,Huracan,18336
+16,Lamborghini,Urus,27760
+17,Lamborghini,Urus,9802
+18,Lamborghini,Aventador,15215
+19,Lamborghini,Urus,11832
+20,Lamborghini,Aventador,13174
+21,Porsche,Cayenne,33516
+22,Porsche,911 Carrera,15048
+23,Porsche,911 Carrera,32868
+24,Porsche,911 Carrera,11572
+25,Porsche,911 Carrera,25424
+26,Porsche,911 Carrera,10780
+27,Porsche,Cayenne,8823
+28,Porsche,Panamera,27984
+29,Porsche,Cayenne,26013
+30,Porsche,Panamera,13056
+31,Bentley,Bentayga,25088
+32,Bentley,Bentayga,8905
+33,Bentley,Continental GT,6290
+34,Bentley,Bentayga,7225
+35,Bentley,Continental GT,1143
+36,Bentley,Continental GT,14433
+37,Bentley,Bentayga,28246
+38,Bentley,Bentayga,13112
+39,Bentley,Bentayga,12875
+40,Bentley,Bentayga,11058
+41,Maserati,Ghibli,22610
+42,Maserati,GranTurismo,32864
+43,Maserati,Ghibli,5250
+44,Maserati,GranTurismo,35174
+45,Maserati,GranTurismo,34236
+46,Maserati,Ghibli,14421
+47,Maserati,Ghibli,26418
+48,Maserati,GranTurismo,14550
+49,Maserati,Ghibli,10150
+50,Maserati,GranTurismo,28638
+51,Aston Martin,Vantage,17963
+52,Aston Martin,DB11,21296
+53,Aston Martin,Vantage,14214
+54,Aston Martin,DB11,23712
+55,Aston Martin,DB11,20320
+56,Aston Martin,DB11,14028
+57,Aston Martin,DB11,30816
+58,Aston Martin,DB11,5180
+59,Aston Martin,Vantage,24768
+60,Aston Martin,Vantage,23490
+61,Rolls-Royce,Ghost,14638
+62,Rolls-Royce,Wraith,15375
+63,Rolls-Royce,Ghost,8748
+64,Rolls-Royce,Ghost,28404
+65,Rolls-Royce,Wraith,12870
+66,Rolls-Royce,Wraith,8676
+67,Rolls-Royce,Ghost,14730
+68,Rolls-Royce,Ghost,12656
+69,Rolls-Royce,Ghost,11232
+70,Rolls-Royce,Wraith,15863
+71,BMW,M8,4920
+72,BMW,M5,37064
+73,BMW,M8,30485
+74,BMW,i8,16625
+75,BMW,M5,26638
+76,BMW,M5,30822
+77,BMW,M5,23018
+78,BMW,M8,9177
+79,BMW,M8,19734
+80,BMW,M8,7239
+81,Mercedes-Benz,AMG GT,27522
+82,Mercedes-Benz,S-Class,55185
+83,Mercedes-Benz,AMG GT,10640
+84,Mercedes-Benz,AMG GT,3328
+85,Mercedes-Benz,S-Class,13776
+86,Mercedes-Benz,AMG GT,17886
+87,Mercedes-Benz,S-Class,35109
+88,Mercedes-Benz,S-Class,10819
+89,Mercedes-Benz,AMG GT,16800
+90,Mercedes-Benz,AMG GT,25056
+91,Audi,R8,4936
+92,Audi,RS7,11611
+93,Audi,A8,13718
+94,Audi,A8,5447
+95,Audi,R8,18050
+96,Audi,A8,21344
+97,Audi,R8,16100
+98,Audi,A8,10416
+99,Audi,A8,32766
+100,Audi,R8,59520
